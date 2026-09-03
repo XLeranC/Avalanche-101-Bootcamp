@@ -20,7 +20,9 @@ https://build.avax.network/console/primary-network/faucet
 
 ## 提交方式
 提供部署成功后截图，以及链上合约的地址
-
+https://subnets-test.avax.network/c-chain/address/0x637cb9cC2E2E9E5FDe2D46caf6f7Dd6b37586558
+https://subnets-test.avax.network/c-chain/address/0x10998Cb7c675D7Ca6da2390CE59b684974C4a172
+![task2](task2.jpg)
 
 
 ## 截止时间
